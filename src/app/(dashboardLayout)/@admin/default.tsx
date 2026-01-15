@@ -1,5 +1,5 @@
 const AdminDefault = () => {
-   return <div></div>;
+   return null;
 };
 
 export default AdminDefault;
